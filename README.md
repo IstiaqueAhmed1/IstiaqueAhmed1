@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IstiaqueAhmed1
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science by Python
 - 💞️ I’m looking to collaborate on some project in near future.
 - 📫 How to reach me My Email: aistiaque106@gmail.com
 
